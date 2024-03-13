@@ -1,4 +1,4 @@
-# LABAIVT-900
+# LABAIVT-900 - Visão Computacional
 Repositório criado no bootcamp para visão computacional
 
 
